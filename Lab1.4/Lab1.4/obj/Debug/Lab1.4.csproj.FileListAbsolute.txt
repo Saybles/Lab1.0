@@ -1,0 +1,9 @@
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\bin\Debug\Lab1.4.exe.config
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\obj\Debug\Lab1.4.csprojResolveAssemblyReference.cache
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\bin\Debug\Lab1.4.exe
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\bin\Debug\Lab1.4.pdb
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\bin\Debug\System.ValueTuple.dll
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\bin\Debug\System.ValueTuple.xml
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\obj\Debug\Lab1.4.csproj.CoreCompileInputs.cache
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\obj\Debug\Lab1.4.exe
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.4\Lab1.4\obj\Debug\Lab1.4.pdb
