@@ -1,0 +1,6 @@
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.1\Lab1.1\bin\Debug\Lab1.1.exe.config
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.1\Lab1.1\bin\Debug\Lab1.1.exe
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.1\Lab1.1\bin\Debug\Lab1.1.pdb
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.1\Lab1.1\obj\Debug\Lab1.1.csprojResolveAssemblyReference.cache
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.1\Lab1.1\obj\Debug\Lab1.1.exe
+D:\VisualStudioCPP\Labs\3-d Sem\Lab1.1\Lab1.1\obj\Debug\Lab1.1.pdb
